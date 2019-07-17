@@ -1,0 +1,2 @@
+# 3_getMapGeoJson_python
+利用python爬虫从GeoAtlas获取全国所有省、市的json数据
